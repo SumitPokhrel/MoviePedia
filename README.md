@@ -1,6 +1,6 @@
 # MoviePedia
 MoviePedia - Analysing whether critics really matter for movies' box office success. What are the factors affecting a movie's box office success ?  
-# ========================================================================================================================================
+# =============================================
 Motivation
 I started watching academy awards since 1998 when one of my favorite movies Titanic won many of them. I became a big Hollywood and academy awards fan since then. I used to love watching movie critics – their logical acumen and attention to detail used to enthrall me. At some point, I started taking their opinion with a grain of salt. There were bunch of movies that I liked that were miserably reviewed by critics – Transformers, Pirates of the Caribbean: At World’s End, Bruce Almighty, Meet the Fockers, The day After Tomorrow etc. These movies also ended up being huge commercial success.  Not all of them that I liked won academy awards though. Some movies that I really liked like 127 hours, letters From Iowa Jima etc. had stellar critic reviews but they did really poor in box office. 
 I started thinking whether critics really matter for movies’ success. Whether I should really bother about their reviews before going to see a movie.
